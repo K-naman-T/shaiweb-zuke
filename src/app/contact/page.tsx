@@ -16,7 +16,7 @@ const contactInfo = [
   },
   {
     title: "Phone",
-    value: "+91 (080) 1234-5678",
+    value: "+91 ",
     icon: "📞"
   },
   {

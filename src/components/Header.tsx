@@ -12,7 +12,6 @@ const navigation = [
   { title: "Team", href: "/team" },
   { title: "What We Do", href: "/what-we-do" },
   { title: "Impact", href: "/impact" },
-  { title: "Careers", href: "/careers" },
   { title: "Blog", href: "/blog" },
   { title: "Contact", href: "/contact" }
 ]
